@@ -6,4 +6,4 @@ for (let numeroDoArray of numeros) {
     soma = soma + numeroDoArray;
 }
 
-console.log("A soma desse array é" + soma); 
+console.log("A soma desse array é" + soma);
